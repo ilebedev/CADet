@@ -1,5 +1,6 @@
 # CADet 
-A CAD tool for solid geometry that doesn't make you cry
+An extensible CAD toolkit for solid geometry that doesn't make you cry.
+Join the discussion here: http://etherpad.mit.edu/p/CADet
 
 Contributing
 ------------
